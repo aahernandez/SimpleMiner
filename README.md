@@ -21,7 +21,7 @@ Left Click&ensp;&ensp;&ensp;-&ensp;&ensp;Place Block.
 Right Click&ensp;&ensp;-&ensp;&ensp;Remove Block.  
 
 ## Run
-An executable is provided in the [Run_Win32](SimpleMiner/Run_Win32) folder.
+An executable is provided in the [Run_Win32](Run_Win32) folder.
 
 ## Build
 The project was built using an older version of my engine that is no longer available thus cannot be built anyone.
